@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.488d5e8a.chunk.css",
-    "main.js": "/portfolio/static/js/main.8ad1dbbf.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8ad1dbbf.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.2afdcacb.chunk.css",
+    "main.js": "/portfolio/static/js/main.dbcad1cf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.dbcad1cf.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
     "static/js/2.84a136eb.chunk.js": "/portfolio/static/js/2.84a136eb.chunk.js",
     "static/js/2.84a136eb.chunk.js.map": "/portfolio/static/js/2.84a136eb.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.488d5e8a.chunk.css.map": "/portfolio/static/css/main.488d5e8a.chunk.css.map",
+    "static/css/main.2afdcacb.chunk.css.map": "/portfolio/static/css/main.2afdcacb.chunk.css.map",
     "static/js/2.84a136eb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.84a136eb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/xl-coding-background.669665fb.jpg",
     "static/media/arrow-down-icon.8a57fe00.svg": "/portfolio/static/media/arrow-down-icon.8a57fe00.svg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.bcd5af5a.js",
     "static/js/2.84a136eb.chunk.js",
-    "static/css/main.488d5e8a.chunk.css",
-    "static/js/main.8ad1dbbf.chunk.js"
+    "static/css/main.2afdcacb.chunk.css",
+    "static/js/main.dbcad1cf.chunk.js"
   ]
 }
