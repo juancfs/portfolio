@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.logo::before {
+  content: "<";
+}
+
+.logo::after {
+  content: "/>";
+}
+
+.open-btn span:first-child {
+  -webkit-transform-origin: 0 1px;
+      -ms-transform-origin: 0 1px;
+          transform-origin: 0 1px;
+  -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.open-btn span:nth-child(2) {
+  opacity: 0;
+}
+.open-btn span:last-child {
+  -webkit-transform-origin: -1px 3px;
+      -ms-transform-origin: -1px 3px;
+          transform-origin: -1px 3px;
+  -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+@layer components {
+  .menuAppear {
+    @apply -left-full;
+  }
+
+  .menuHide {
+    @apply left-0;
+  }
+
+  .blinking {
+    @apply border-r-4 border-solid border-transparent animate-blinking;
+  }
+}
