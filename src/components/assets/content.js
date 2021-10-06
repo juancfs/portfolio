@@ -4,6 +4,7 @@ import downArrow from "./icons/arrow-down-icon.svg";
 import locationIcon from "../assets/icons/location-icon.svg";
 import downloadIcon from "../assets/icons/download-icon.svg";
 
+import restCountriesAPI from "../assets/projects/rest-countries-api.png";
 import planets from "../assets/projects/planets.png";
 import covidstats from "../assets/projects/covidstats.png";
 import sunnyside from "../assets/projects/sunnyside.png";
@@ -155,13 +156,22 @@ let content = {
       },
       projectsContent: [
         {
-          title: "Planets fact site",
+          title: "Countries facts site",
+          madeWith: "React.js, Sass (SCSS)",
+          description: "Informative website that displays information about the countries of the world using the REST countries API made as a challenge taken from Frontend Mentor. The challenge consisted of building the website based on the designs provided by the platform.",
+          siteLink: "https://rest-countries-api-juancfs.vercel.app/",
+          codeLink: "https://github.com/juancfs/rest-countries-api",
+          imgSrc: restCountriesAPI,
+          imgAlt: "Countries facts project screenshot"
+        },
+        {
+          title: "Planets facts site",
           madeWith: "HTML5, Tailwindcss, React.js",
           description: "Informative website about the planets of the Solar system made as a challenge taken from Frontend Mentor. The challenge consisted of laying out the website based on the designs provided by the platform.",
           siteLink: "https://juancfs.github.io/planets-fact-site/",
           codeLink: "https://github.com/juancfs/planets-fact-site",
           imgSrc: planets,
-          imgAlt: "Planets fact site project screenshot"
+          imgAlt: "Planets facts site project screenshot"
         },
         {
           title: "Covidstats",
@@ -343,13 +353,22 @@ let content = {
       },
       projectsContent: [
         {
-          title: "Sitio de información sobre Planetas",
-          madeWith: "HTML5, Tailwindcss, React.js",
-          description: "Sitio web informativo sobre los planetas del sistema solar hecho como un desafío tomado de Frontend Mentor. El desafío consistió en maquetar el sitio web basándose en los diseños proveídos por la plataforma.",
+          title: "Sitio de información sobre países",
+          madeWith: "React.js, Sass (SCSS)",
+          description: "Sitio web informativo que muestra información sobre los países del mundo usando la REST countries API tomado como un desafío de Frontend Mentor. El desafío consistió en maquetar el sitio web basándose en el diseño proveído por la plataforma.",
+          siteLink: "https://rest-countries-api-juancfs.vercel.app/",
+          codeLink: "https://github.com/juancfs/rest-countries-api",
+          imgSrc: restCountriesAPI,
+          imgAlt: "Captura de pantalla del proyecto sitio de información sobre países"
+        },
+        {
+          title: "Sitio de información sobre planetas",
+          madeWith: "Tailwindcss, React.js",
+          description: "Sitio web informativo sobre los planetas del sistema solar hecho como un desafío tomado de Frontend Mentor. El desafío consistió en maquetar el sitio web basándose en el diseño proveído por la plataforma.",
           siteLink: "https://juancfs.github.io/planets-fact-site/",
           codeLink: "https://github.com/juancfs/planets-fact-site",
           imgSrc: planets,
-          imgAlt: "Captura de pantalla del proyecto página de información sobre planetas"
+          imgAlt: "Captura de pantalla del proyecto sitio de información sobre planetas"
         },
         {
           title: "Covidstats",
@@ -366,7 +385,7 @@ let content = {
           title: "Página de aterrizaje Sunnyside agency",
           madeWith: "HTML5, CSS3, JavaScript",
           description:
-            "Página de aterrizaje hecha como un desafío tomado de Frontend Mentor. El desafío consistió en maquetar la página de aterrizaje basándose en los diseños proveídos por la plataforma.",
+            "Página de aterrizaje hecha como un desafío tomado de Frontend Mentor. El desafío consistió en maquetar la página de aterrizaje basándose en el diseño proveído por la plataforma.",
           siteLink: "https://juancfs.github.io/sunnyside-agency-landing-page/",
           codeLink: "https://github.com/juancfs/sunnyside-agency-landing-page",
           imgSrc: sunnyside,

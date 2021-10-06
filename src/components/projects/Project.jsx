@@ -18,7 +18,8 @@ export default class Project extends React.Component {
             <span className="font-medium">{content[this.props.language]["projects"]["descriptionTitle"]}</span>
             {` ${this.props.description}`}
           </p>
-          <div className="max-md:flex max-md:flex-row max-md:flex-wrap max-md:justify-around">
+          <div className="mb-8 max-md:flex max-md:flex-row max-md:flex-wrap max-md:justify-around">
+            {/* Live site button */}
             <a
               href={this.props.siteLink}
               target="_blank"
@@ -32,6 +33,7 @@ export default class Project extends React.Component {
               />
               &nbsp;{content[this.props.language]["projects"]["liveSiteTitle"]}
             </a>
+            {/* View code button */}
             <a
               href={this.props.codeLink}
               target="_blank"
