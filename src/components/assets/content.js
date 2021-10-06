@@ -166,7 +166,7 @@ let content = {
         },
         {
           title: "Planets facts site",
-          madeWith: "HTML5, Tailwindcss, React.js",
+          madeWith: "Tailwindcss, React.js",
           description: "Informative website about the planets of the Solar system made as a challenge taken from Frontend Mentor. The challenge consisted of laying out the website based on the designs provided by the platform.",
           siteLink: "https://juancfs.github.io/planets-fact-site/",
           codeLink: "https://github.com/juancfs/planets-fact-site",
