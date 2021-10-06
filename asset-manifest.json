@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2afdcacb.chunk.css",
-    "main.js": "/portfolio/static/js/main.dbcad1cf.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.dbcad1cf.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.7915a5cf.chunk.css",
+    "main.js": "/portfolio/static/js/main.83739b32.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.83739b32.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
     "static/js/2.84a136eb.chunk.js": "/portfolio/static/js/2.84a136eb.chunk.js",
     "static/js/2.84a136eb.chunk.js.map": "/portfolio/static/js/2.84a136eb.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.2afdcacb.chunk.css.map": "/portfolio/static/css/main.2afdcacb.chunk.css.map",
+    "static/css/main.7915a5cf.chunk.css.map": "/portfolio/static/css/main.7915a5cf.chunk.css.map",
     "static/js/2.84a136eb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.84a136eb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/xl-coding-background.669665fb.jpg",
     "static/media/arrow-down-icon.8a57fe00.svg": "/portfolio/static/media/arrow-down-icon.8a57fe00.svg",
@@ -30,8 +30,9 @@
     "static/media/linkedin-icon.6494960c.svg": "/portfolio/static/media/linkedin-icon.6494960c.svg",
     "static/media/location-icon.60929904.svg": "/portfolio/static/media/location-icon.60929904.svg",
     "static/media/paper-airplane-icon.5429d890.svg": "/portfolio/static/media/paper-airplane-icon.5429d890.svg",
-    "static/media/planets.320f42be.png": "/portfolio/static/media/planets.320f42be.png",
+    "static/media/planets.3eda4de1.png": "/portfolio/static/media/planets.3eda4de1.png",
     "static/media/react-icon.7098e271.svg": "/portfolio/static/media/react-icon.7098e271.svg",
+    "static/media/rest-countries-api.093a1ab3.png": "/portfolio/static/media/rest-countries-api.093a1ab3.png",
     "static/media/rocket-icon.bdad65ae.svg": "/portfolio/static/media/rocket-icon.bdad65ae.svg",
     "static/media/sass-icon.f5019806.svg": "/portfolio/static/media/sass-icon.f5019806.svg",
     "static/media/sunnyside.7fde3382.png": "/portfolio/static/media/sunnyside.7fde3382.png",
@@ -42,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.bcd5af5a.js",
     "static/js/2.84a136eb.chunk.js",
-    "static/css/main.2afdcacb.chunk.css",
-    "static/js/main.dbcad1cf.chunk.js"
+    "static/css/main.7915a5cf.chunk.css",
+    "static/js/main.83739b32.chunk.js"
   ]
 }
