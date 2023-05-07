@@ -1,5 +1,5 @@
 import React from "react";
-import JuanPhoto from "./assets/juan-photo.png";
+import JuanPhoto from "./assets/juan-photo.jpg";
 import content from "./assets/content";
 
 export default class About extends React.Component {
